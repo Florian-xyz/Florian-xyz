@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+10 years software craftmanship professional experience
+
 <!--
 **Florian-xyz/Florian-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
